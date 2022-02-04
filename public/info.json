@@ -1,0 +1,23 @@
+{
+    "room_details" : 
+    {
+​
+    "bedroom":"3",
+    "bathroom":"2",
+    "basement_type": "Part Bsmt",
+    "kitchens" : "1",
+    "rooms" : "6",
+    "water" : "municipal",
+    "cooling": "wall unit",
+    "heating_type" : "water",
+    "heating_fuel" : "gas",
+    "electricity" : "none",
+    "gas" : "none",
+    "cable": "none",
+    "telephone" : "none",
+    "size" : "1553 feet² (SigmaEstimate®)",
+    "parking_type" : "Built-in",
+    "parking_count" : "3"
+​
+    }
+}
